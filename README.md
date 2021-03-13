@@ -38,4 +38,27 @@ In this Specialization, you will build neural network architectures such as Conv
   + [Week 1 - Regularization Methods to mitigate overfitting](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/02_Improving_Deep_Neural_Networks/Week1/02_Regularization/Regularization_v2a.ipynb)
   + [Week 1 - Gradient Checking to check if Backpropagation is correct](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/02_Improving_Deep_Neural_Networks/Week1/03_Gradient%20Checking/Gradient%2BChecking%2Bv1.ipynb)
   + [Week 2 - Optimization Algorithms](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/02_Improving_Deep_Neural_Networks/Week2/Optimization_methods_v1b.ipynb)
-  + [Week 3 - Neural_Network_in_Tensorflow](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/02_Improving_Deep_Neural_Networks/Week3/TensorFlow_Tutorial_v3b.ipynb) 
+  + [Week 3 - Neural Network in Tensorflow](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/02_Improving_Deep_Neural_Networks/Week3/TensorFlow_Tutorial_v3b.ipynb) 
+  
+  ### Course 3: Structuring Machine Learning Projects
+
+  Objectives:
+  + Diagnose and use strategies for reducing errors in ML systems. 
+  + Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance;
+  + Apply end-to-end learning, transfer learning, and multi-task learning.
+  
+  Code Labs:
+  
+  This course is theroycal and condenses all experience of Andrew Ng to taking into account in any ML project. There are no labs but it comes with different use cases.
+  
+ ### Course 4: Convolutional Neural Networks
+ 
+ Objectives:
+  + Build a CNN, apply it to visual detection and recognition tasks, use neural style transfer to generate art, and apply these algorithms to image, video, and other 2D/3D data.
+  + Understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
+  
+
+ Code Labs:
+  + [Week 1 - Convolutional Model: step by step](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/02_Improving_Deep_Neural_Networks/Week1/01_Initialization/Initialization.ipynb)
+  + [Week 1 - Convolutional Model: application](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/02_Improving_Deep_Neural_Networks/Week1/02_Regularization/Regularization_v2a.ipynb)
+ 
