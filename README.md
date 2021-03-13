@@ -26,4 +26,16 @@ In this Specialization, you will build neural network architectures such as Conv
   + [Week 4 - Building your Deep Neural Network: Step by Step](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/01_Neural_Networks_and_Deep_Learning/Week%204/Building_your_deep_neural_network_Step_by_Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
   + [Week 4 - Deep Neural Network: Application](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/01_Neural_Networks_and_Deep_Learning/Week%204/Deep%20Neural%20Network%20for%20Image%20Classification%20Application/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb) 
 
+### Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
+  Objectives:
+  + Use the best practices to train and develop test sets and analyze bias/variance for building DL applications, use standard neural network   techniques, apply optimization algorithms, and implement a neural network in TensorFlow.
+  + Understand what drives performance, and be able to more systematically get good results in one DNN Architecture.
+  + Learn Tensforflow.
+ 
+ Code Labs:
+  + [Week 1 - Initialization Methods in order to speed up  the convergence of gradient descent](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/01_Neural_Networks_and_Deep_Learning/Week%202/Python%20and%20Vectorization/Python_Basics_With_Numpy_v3a.ipynb)
+  + [Week 1 - Regularization Methods to mitigate overfitting](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/01_Neural_Networks_and_Deep_Learning/Week%202/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+  + [Week 1 - Gradient Checking to check if Backpropagation is correct](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/01_Neural_Networks_and_Deep_Learning/Week%203/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+  + [Week 4 - Building your Deep Neural Network: Step by Step](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/01_Neural_Networks_and_Deep_Learning/Week%204/Building_your_deep_neural_network_Step_by_Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+  + [Week 4 - Deep Neural Network: Application](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/01_Neural_Networks_and_Deep_Learning/Week%204/Deep%20Neural%20Network%20for%20Image%20Classification%20Application/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb) 
