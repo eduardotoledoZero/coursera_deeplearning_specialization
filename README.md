@@ -61,4 +61,9 @@ In this Specialization, you will build neural network architectures such as Conv
  Code Labs:
   + [Week 1 - Convolutional Model: step by step](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/04_Convolutional%20Neural%20Networks/Week1/01_Convolutional_Model_step_by_step/Convolution_model_Step_by_Step_v2a.ipynb)
   + [Week 1 - Convolutional Model: application](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/04_Convolutional%20Neural%20Networks/Week1/02_Convolutional%20Neural%20Networks%20Application/Convolution_model_Application_v1a.ipynb)
+  + [Week 2 - Keras Tutorial](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/04_Convolutional%20Neural%20Networks/Week1/01_Convolutional_Model_step_by_step/Convolution_model_Step_by_Step_v2a.ipynb)
+  + [Week 2 - Residual Networks](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/04_Convolutional%20Neural%20Networks/Week1/01_Convolutional_Model_step_by_step/Convolution_model_Step_by_Step_v2a.ipynb)
+  + [Week 3 - Autonomous driving - Car detection](https://github.com/eduardotoledoZero/coursera_deeplearning_specialization/blob/main/04_Convolutional%20Neural%20Networks/Week1/01_Convolutional_Model_step_by_step/Convolution_model_Step_by_Step_v2a.ipynb)
+  
+  
  
